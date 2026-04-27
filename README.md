@@ -1,4 +1,4 @@
-﻿# Hi there! 👋 I'm Khushi!
+# Hi there! 👋 I'm Khushi!
 
 ![GitHub Profile Banner](https://raw.githubusercontent.com/Khushiim1238/Khushiim1238/main/banner.png)
 
@@ -34,7 +34,28 @@ I'm a **Software Developer & UI/UX Enthusiast** with a focus on building modern,
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
 
 ## 📌 Pinned Projects
-*(Remember to pin 4-6 repositories on your main profile page!)*
+
+### 💳 [FinTechCore](https://github.com/Khushiim1238/FinTechCore)
+**Your intelligent financial companion.** Track, analyze, and master your finances with AI-powered insights.
+- **Features:** Real-time dashboard, AI budget tracking, smart transaction management, and bank-grade security.
+- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75C2?style=flat-square&logo=google-gemini&logoColor=white)
+
+---
+
+### 🎮 [PlayZone](https://github.com/Khushiim1238/PlayZone)
+**Modern Video Game Discovery Platform.** A sleek application to explore and find your next favorite gaming adventure.
+- **Features:** Advanced search/filtering, real-time RAWG API integration, and high-performance responsive UI.
+- **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
+
+---
+
+### 🤖 [AI Timing Predictor](https://github.com/Khushiim1238/project)
+**Combinational Complexity AI.** Predicting signal depth and complexity to identify timing violations in hardware designs.
+- **Focus:** AI/ML application in EDA (Electronic Design Automation) to optimize signal paths and performance.
+- **Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Data Science](https://img.shields.io/badge/Data_Science-232F3E?style=flat-square&logo=pandas&logoColor=white)
+
+<br/>
+
 
 ## 📊 GitHub Analytics
 <p align="center">
